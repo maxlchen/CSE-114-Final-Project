@@ -1,0 +1,2 @@
+# CSE-114-Final-Project
+This program takes in two text files, one containing card data (card number, expiration date, card type, etc.) and one containing transaction data (type of transaction, transaction amount, etc.). The program then matches all transactions and card information with the appropriate person/account, and prints each account statement in an organized and coherent fashion. Sample input files are included.
